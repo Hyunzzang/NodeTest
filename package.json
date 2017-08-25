@@ -1,0 +1,12 @@
+{
+    "name": "express-test",
+    "version": "0.0.1",
+    "dependencies": 
+    {
+      "express": "~4.15.4",
+      "ejs": "~2.5.7",
+      "body-parser": "*",
+      "errorhandler": "*",
+      "express-session": "*" 
+    }
+  }
