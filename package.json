@@ -1,12 +1,13 @@
 {
-    "name": "express-test",
-    "version": "0.0.1",
-    "dependencies": 
-    {
-      "express": "~4.15.4",
-      "ejs": "~2.5.7",
-      "body-parser": "*",
-      "errorhandler": "*",
-      "express-session": "*" 
-    }
+  "name": "express-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "^1.4.4",
+    "ejs": "~2.5.7",
+    "elastic-apm-node": "^2.15.0",
+    "errorhandler": "*",
+    "express": "~4.15.4",
+    "express-session": "*"
   }
+}
